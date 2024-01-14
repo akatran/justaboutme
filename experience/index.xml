@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on akatran - Just about me!!!</title>
-    <link>https://akatran.github.io/justaboutme/</link>
-    <description>Recent content in Home on akatran - Just about me!!!</description>
+    <title>Experiences on akatran - Just about me!!!</title>
+    <link>https://akatran.github.io/justaboutme/experience/</link>
+    <description>Recent content in Experiences on akatran - Just about me!!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jan 2024 23:54:44 +0200</lastBuildDate>
-    <atom:link href="https://akatran.github.io/justaboutme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akatran.github.io/justaboutme/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biograph</title>
       <link>https://akatran.github.io/justaboutme/experience/biograph/</link>
       <pubDate>Sat, 13 Jan 2024 23:54:44 +0200</pubDate>
       <guid>https://akatran.github.io/justaboutme/experience/biograph/</guid>
       <description>Studies Bachelor of Science (B.Sc.) in Automation Engineer&#xA;Learn about electronics, computers, motors, sensors and combine them to work together.&#xA;Work experient R&amp;amp;D Director - Intelligent Media ltd (Nov 2012 - Present) Project Manager / Developer - Apptel ltd (Feb 2002 - Nov 2012 · 10 yrs 10 mos) IT - National Center of Public Administation and Local Goverment (Mar 2001 - Apr 2004 · 3 yrs 2 mos) Computer Technician - T&amp;amp;K ltd (Jun 2000 - Feb 2001 · 9 mos) Computer Technician (Jan 1995 - Feb 1997 · 2 yrs 2 mos) Electronic technician helper (Jun 1993 - Feb 1995 · 1 yr 9 mos) Other experieces </description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://akatran.github.io/justaboutme/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://akatran.github.io/justaboutme/posts/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
